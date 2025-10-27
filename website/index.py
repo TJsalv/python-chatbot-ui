@@ -4,4 +4,4 @@ index = Blueprint('views', __name__)
 
 @index.route('/')
 def home():
-    return "<h1> PYTHON CHATBOT UNDER CONSTRUCTION <h1>"
+    return "<h1> PYTHON CHATBOT UNDER CONSTRUCTION test<h1>"
